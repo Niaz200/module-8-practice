@@ -1,0 +1,12 @@
+১২ নভে, রাত ৯:০০
+
+Handling Requests and Data in Web Development
+
+টপিক:
+Laravel request | Laravel file upload | Laravel Form | request header | json body | parameter | Request
+
+নোট: 
+
+Request, Parameter, JSON Body, Request Header | Working With Form Data & File Upload | লাইভ ক্লাসে জয়েন করে,
+ এই টপিকগুলো সম্পর্কে শিখে নিন। যদি কোনো কারণে ক্লাসটি মিস করে ফেলেন, অবশ্যই ক্লাস রেকর্ডিং টি দেখে নিবেন। কারণ ক্লাসে ডিস্কাস করা টপিকগুলো থেকেও পরবর্তীতে আপনাদের 
+এসাইনমেন্ট, এক্সাম দেয়া হয়ে থাকে।

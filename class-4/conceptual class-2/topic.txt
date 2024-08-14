@@ -1,0 +1,10 @@
+
+১৫ নভে, রাত ১০:০০
+
+মডিউল ৮ এর কনসেপচুয়াল ক্লাস
+
+নোট: 
+
+Different Response Format, Response JSON | Redirect Response, Binary And File Download Response | 
+Cookie Response, Response Header, Response View. লাইভ ক্লাসে জয়েন করে, এই টপিকগুলো সম্পর্কে শিখে নিন। যদি কোনো কারণে ক্লাসটি মিস করে ফেলেন,
+ অবশ্যই ক্লাস রেকর্ডিং টি দেখে নিবেন। কারণ ক্লাসে ডিস্কাস করা টপিকগুলো থেকেও পরবর্তীতে আপনাদের এসাইনমেন্ট, এক্সাম দেয়া হয়ে থাকে।

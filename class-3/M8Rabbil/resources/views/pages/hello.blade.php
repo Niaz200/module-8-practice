@@ -1,0 +1,1 @@
+<h1>I am blade view</h1>
